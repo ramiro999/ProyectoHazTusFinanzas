@@ -1,0 +1,45 @@
+h1{
+    padding-top: 10px;
+}
+#section1{
+    padding: 15px;
+}
+#section1>p{
+    font-size: 20px;
+    text-align:justify;
+}
+
+#par1{
+    margin:20px;
+}
+#accordionFlushExample{
+    text-align: justify;
+}
+
+li{
+    padding-top: 5px;
+}
+
+#tarjeta{ 
+    margin: 30px;
+}
+
+#image1{
+    height: 300px;
+}
+
+#cuestionario{
+    background-color: aliceblue;
+    padding: 15px;
+}
+
+
+p{
+    text-align: justify;
+}
+h2{ 
+    color:rgba(20, 95, 233, 0.679);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

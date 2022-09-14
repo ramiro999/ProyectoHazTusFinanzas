@@ -1,0 +1,64 @@
+
+h2{
+    padding-top: 10px;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.418);
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+h5{
+    font-size: auto;
+    background-color: rgba(240, 248, 255, 0.521);
+}
+
+p{
+    font-size: 1vw;
+    font-family: Verdana;
+    background-color: rgba(240, 248, 255, 0.521);
+
+}
+#par1{
+    font-size: 12px;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 500%;
+    
+}
+
+@media (max-width: 600px){
+    .carousel-item{
+        height: 250px;
+    }
+}
+.navbar-brand{
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.cuadro{
+    background-color: aliceblue;
+}
+
+.footer{
+    background-color: aliceblue;
+}
+
+nav{
+    background-color: aliceblue;
+
+}
+
+.card_image{
+    width: 10vw;
+    margin:auto;
+}
+
+.scard{
+    align-content: center;
+}
+
+.carousel-inner img {
+    margin: auto;
+  }

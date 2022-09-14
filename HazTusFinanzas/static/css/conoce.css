@@ -1,0 +1,13 @@
+#section1{
+    background-color: aliceblue;
+}
+#section1>p{
+    text-align: justify;
+    font-size: 20px;
+}
+#card1{
+    background-color: aliceblue;
+}
+.footer{
+    background-color: aliceblue;
+}
