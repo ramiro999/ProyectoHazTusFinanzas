@@ -2,4 +2,4 @@
 
 __Proyecto realizado en el curso de Programacion en la web.__		
 
-Tecnologias usadas: HTML, CSS, JAVASCRIPT, BOOTSTRAP, DJANGO
+_Tecnologias usadas: HTML, CSS, JAVASCRIPT, BOOTSTRAP, DJANGO_
